@@ -5,7 +5,7 @@
 
 'use strict';
 
-var $ = require('jquery');
+var $ = require('nd-jquery');
 var Overlay = require('nd-overlay');
 
 // 一个绑定事件的简单封装

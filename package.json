@@ -1,6 +1,6 @@
 {
   "name": "nd-popup",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "可触发的浮层组件。封装了当用户点击、hover、focus 到指定元素时，可以触发另一个浮层显示的行为。",
   "keywords": [],
   "homepage": "https://github.com/ndfront/nd-popup",
@@ -22,8 +22,8 @@
   "licenses": "MIT",
   "main": "index.js",
   "dependencies": {
-    "jquery": "^1.11.1",
-    "nd-overlay": "^3.0.0"
+    "nd-overlay": "^3.0.1",
+    "nd-jquery": "^2.2.1"
   },
   "devDependencies": {
     "expect.js": "^0.3.1",
